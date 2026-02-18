@@ -5,7 +5,7 @@ from visualizer import Visualizer
 
 WIDTH, HEIGHT = 800, 800
 NUM_PARTICLES = 10
-RADIUS = 5
+RADIUS = 7
 SPEED = 3.0
 
 def init_particles(n, width, height, radius, speed):
